@@ -1,3 +1,2 @@
-webapp=8080.zip
- .DS_Store
- 
+/webapp=8080.zip
+/.DS_Store
