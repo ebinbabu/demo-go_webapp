@@ -1,6 +1,5 @@
-Certainly! Here's an example of an MD (Markdown) file documenting the commands you provided:
 
-```markdown
+
 ## Setup Instructions
 
 To set up and run the web application, follow the steps below:
@@ -44,9 +43,6 @@ cd webapp
 Once you have completed these steps, the web application should be up and running.
 
 Note: The commands assume you are using a Debian-based Linux distribution with the `apt` package manager.
-```
-
-You can save this content in a file with a `.md` extension, for example, `setup.md`. The Markdown file provides structured and formatted instructions for setting up and running the web application using the provided commands.
 
 
 or you can use the following command in single step:
